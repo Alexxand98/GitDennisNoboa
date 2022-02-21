@@ -11,4 +11,13 @@ public class DennisNoboaBasket {
 		this.njugador = njugador;
 		this.nombreHobby = nombreHobby;
 	}
+
+	public String getJugador() {
+		return jugador;
+	}
+
+	public void setJugador(String jugador) {
+		this.jugador = jugador;
+	}
+	
 }
