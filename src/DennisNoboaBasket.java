@@ -19,5 +19,9 @@ public class DennisNoboaBasket {
 	public void setJugador(String jugador) {
 		this.jugador = jugador;
 	}
+
+	public int getNjugador() {
+		return njugador;
+	}
 	
 }
