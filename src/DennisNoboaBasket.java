@@ -27,5 +27,9 @@ public class DennisNoboaBasket {
 	public void setNjugador(int njugador) {
 		this.njugador = njugador;
 	}
+
+	public String getNombreHobby() {
+		return nombreHobby;
+	}
 	
 }
