@@ -36,4 +36,9 @@ public class DennisNoboaBasket {
 		this.nombreHobby = nombreHobby;
 	}
 	
+	public void loop() {
+		for(int i=0; i<1000; i++) {
+			System.out.println("Basket");
+		}
+	}
 }
